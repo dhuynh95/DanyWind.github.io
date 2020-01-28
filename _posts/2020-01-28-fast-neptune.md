@@ -302,6 +302,13 @@ These include :</p>
 </div>
 
 </div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Now if we go on the link provided by NeptuneML, <a href="https://ui.neptune.ai/danywin/fast-neptune/e/FAS1-18">https://ui.neptune.ai/danywin/fast-neptune/e/FAS1-18</a>, we can see all the data that we logged.</p>
+
+</div>
+</div>
+</div>
 </div>
  
 
